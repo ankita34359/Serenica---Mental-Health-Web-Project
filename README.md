@@ -77,7 +77,7 @@ A full-stack web application aimed at providing accessible, personalized, and af
 | Layer          | Tools                          |
 | -------------- | ------------------------------ |
 | Frontend       | React.js + Tailwind CSS        |
-| Backend        | Node.js + Express.js / Flask   |
+| Backend        | Node.js + Express.js           |
 | Database       | MongoDB / PostgreSQL           |
 | Authentication | JWT + bcrypt                   |
 | Payments       | Razorpay or Stripe             |
@@ -85,28 +85,6 @@ A full-stack web application aimed at providing accessible, personalized, and af
 | Video Chat     | Jitsi Meet / Zoom SDK          |
 | Email/Notif    | Nodemailer + Cron jobs         |
 
----
-
-### 🧭 Development Roadmap
-
-#### 📌 Week 1: Planning
-
-* Finalize features (MVP vs Future)
-* Design user flow
-* Sketch UI on Figma or paper
-
-#### 📌 Week 2–3: Development
-
-* Set up backend (auth, DB schemas, routes)
-* Set up frontend (basic pages, layout, integration)
-* Implement role-based login & dashboards
-
-#### 📌 Week 4: Polish & Launch
-
-* Connect APIs
-* Test booking + payment flows
-* Deploy frontend/backend
-* Collect feedback
 
 ---
 
